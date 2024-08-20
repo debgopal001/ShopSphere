@@ -9,8 +9,8 @@ needs.
 The platform leverages a comprehensive stack of technologies to ensure optimal performance and
 user engagement. By combining a powerful backend with a responsive frontend and a secure
 database, ShopSphere not only meets but exceeds the expectations of today’s online shoppers. Its
-integration of HTML5, CSS3, Bootstrap, and Thymeleaf for the frontend, along with Spring Boot
-3.0, Spring Security 6.0, and MySQL for the backend, provides a seamless, efficient, and secure
+integration of **HTML5, CSS3, Bootstrap, and Thymeleaf for the frontend, along with Spring Boot
+3.0, Spring Security 6.0, and MySQL** for the backend, provides a seamless, efficient, and secure
 shopping experience.
 
 
